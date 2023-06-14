@@ -1,0 +1,7 @@
+{
+    "name": "com.couplehunerdgames.unityuitoolkitextensions",
+    "version": "1.0.0",
+    "displayName": "Unity UI Toolkit Extensions",
+    "description": "Additional UI Toolkit Elements and Features.",
+    "unity": "2022.2"
+}
